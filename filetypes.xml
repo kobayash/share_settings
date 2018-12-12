@@ -2,11 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ctp" type="PHP" />
+      <mapping pattern="laravel-env" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.local" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_usr_table" type="PLAIN_TEXT" />
       <mapping pattern="--exclude-vcs" type="PLAIN_TEXT" />
+      <mapping pattern="laradock" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="._img" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.20150429" type="PLAIN_TEXT" />
@@ -15,11 +17,11 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="table_08" type="PLAIN_TEXT" />
       <mapping pattern="table_03" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="ejs" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
