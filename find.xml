@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../bedrock/web/app/themes/furoku/resources/assets/styles/layouts/_posts.scss [furoku.site]'" />
+    <option name="defaultScopeName" value="File '.../bedrock/web/app/themes/furoku/resources/assets/styles/layouts/_posts.scss [furoku.site]'" />
+    <option name="SEARCH_SCOPE" value="File '.../bedrock/web/app/themes/furoku/resources/assets/styles/layouts/_posts.scss [furoku.site]'" />
   </component>
 </application>
